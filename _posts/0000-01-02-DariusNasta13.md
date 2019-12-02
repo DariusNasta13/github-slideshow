@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Darius introduce un text.
+I love games
 Use the left arrow to go back!
